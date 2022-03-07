@@ -23,15 +23,18 @@ Used python sqlalchemy, numpy and pandas to extract weather temperatures from a 
 - December has a lower minimum temp dropping to 56 degrees
 
 ### June Temperature Summary
-
 ![June Temperature Summary](https://github.com/lnharvin/surfs_up/blob/main/images/june_temps.PNG)
 
 ### December Temperature Summary
-
 ![December Temperature Summary](https://github.com/lnharvin/surfs_up/blob/main/images/dec_temps2.PNG)
 
 ## Summary
 
-After analyzing a minimum of six years worth of monthly weather temperatures in Oahu we can determine that both the month of June and December yield similar temperatures with a difference of only 3 degrees in the average temperature and 2 degrees difference in the maximum temperature.
+After analyzing a minimum of six years worth of monthly weather temperatures across 9 different weather stations in Oahu we can determine that both the month of June and December yield similar temperatures with a difference of only 3 degrees in the average temperature and 2 degrees difference in the maximum temperature.
 
 I would suggest to my client that with such minor temperature difference that it appears feasible to keep the Oahu surf and ice cream shop open all year around with maybe  shorter business hours in the month of December, perhaps opening later in the morning to allow the daily temperature to rise. 
+
+## Additional Analysis
+
+#### Number of data points per weather station
+![Number of data points per weather station](https://github.com/lnharvin/surfs_up/blob/main/images/station_dataPts.PNG)
