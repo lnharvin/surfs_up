@@ -30,7 +30,7 @@ Used python sqlalchemy, numpy and pandas to extract weather temperatures from a 
 
 ### December Temperature Summary
 
-![December Temperature Summary](https://github.com/lnharvin/surfs_up/blob/main/images/dec_temps.PNG)
+![December Temperature Summary](https://github.com/lnharvin/surfs_up/blob/main/images/dec_temps2.PNG)
 
 ## Summary
 
