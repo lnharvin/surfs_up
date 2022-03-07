@@ -34,14 +34,13 @@ After analyzing a minimum of six years worth of monthly weather temperatures acr
 
 I would suggest to my client that with such minor temperature difference that it appears feasible to keep the Oahu surf and ice cream shop open all year around with maybe  shorter business hours in the month of December, perhaps opening later in the morning to allow the daily temperature to rise. 
 
-### Average Temp by Month
+#### Average Temperature by Month
 ![Avg Temp by Month](https://github.com/lnharvin/surfs_up/blob/main/images/avg_temps_by_month.PNG)
 
 ## Additional Analysis
 
-#### Number of data points per weather station
-![Number of data points per weather station](https://github.com/lnharvin/surfs_up/blob/main/images/station_dataPts.PNG)
+[Number of data points per weather station](https://github.com/lnharvin/surfs_up/blob/main/images/station_dataPts.PNG)
 
-[Weather station statistics](https://github.com/lnharvin/surfs_up/blob/main/images/station_statistics.PNG)
+[All weather station statistics](https://github.com/lnharvin/surfs_up/blob/main/images/station_statistics.PNG)
 
 [Average Temperature Data](https://github.com/lnharvin/surfs_up/blob/main/images/avg_temps_by_month_data.PNG)
